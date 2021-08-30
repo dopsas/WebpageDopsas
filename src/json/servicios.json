@@ -1,0 +1,34 @@
+{
+    "servicios": [
+        {
+            "id": "1",
+            "title": "REPUCH",
+            "description": "Sistema para almacenar trabajos de investigación",
+            "urlx": "./images/services/REPUCH-Login.png"
+        },
+        {
+            "id": "2",
+            "title": "ERP",
+            "description": "Sistema integrado de gestion",
+            "urlx": "./images/services/sistema_integrado_gestion.png"
+        },
+        {
+            "id": "3",
+            "title": "SIDSIS",
+            "description": "Sistema para gestionar evaluaciones realizadas en los censos",
+            "urlx": "./images/services/SIDCIS-Login.png"
+        },
+        {
+            "id": "4",
+            "title": "MYFARM",
+            "description": "Sistema de ventas para cadena de boticas",
+            "urlx": "./images/services/MYFARM-Login.png"
+        },
+        {
+            "id": "5",
+            "title": "KALELSAC-Website",
+            "description": "Página web para la empresa KALELSAC",
+            "urlx": "./images/services/KALELSAC-Website.png"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "title": "Servicio de desarrollo de software",
+            "description": "Desarrollamos páginas y sistemas web de manera profesional y a la medida del cliente.",
+            "urlx": "./images/image-item-carousel-desarrollo-web.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Servicio de Hosting y dominio",
+            "description": "Ofrecemos el registro de dominios(.com, .Net, .org, .pe) y alojamiento de su página web de forma segura y estable.",
+            "urlx": "./images/image-item-carousel-hosting-dominio.png"
+        },
+        {
+            "id": "3",
+            "title": "Servicio de Asesoramiento",
+            "description": "Contamos con especialistas que encontrarán las deficiencias de su negocio y trasnformarlas en oportunidades.",
+            "urlx": "./images/image-item-carousel-asesoramiento.jpg"
+        }
+    ]
+}

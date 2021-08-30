@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "title": "image one",
+            "description": "description image one",
+            "url": "./src/images/image-item-carousel-desarrollo-web.jpg"
+        },
+        {
+            "id": "2",
+            "title": "image two",
+            "description": "description image two",
+            "url": "./src/images/image-item-carousel-desarrollo-web.jpg"
+        },
+        {
+            "id": "3",
+            "title": "image three",
+            "description": "description image three",
+            "url": "./src/images/image-item-carousel-desarrollo-web.jpg"
+        }
+    ]
+}
